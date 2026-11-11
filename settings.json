@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "secret-smp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
+    "ip": "secretsmp118.mcsh.io",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "RIFAT_MOJO00"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Secret-SMP"
       ]
     },
     "chat-log": true,
